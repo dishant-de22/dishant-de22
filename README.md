@@ -15,4 +15,4 @@ I'm a data engineer with over 2 years of experience building data intensive soft
 
 ## 🌍 Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/dishant-ai22/)
-- Email: (dishant.de22@gmail.com)
+- [Email](dishant.de22@gmail.com)
