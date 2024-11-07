@@ -14,6 +14,5 @@ I'm a data engineer with over 2 years of experience building data intensive soft
 - In my free time, I enjoy playing the piano.
 
 ## 🌍 Get in Touch
-- LinkedIn: [Your LinkedIn Profile URL](https://www.linkedin.com/in/dishant-ai22/)
-- Email: [Your Email Address]
-- GitHub: [Your GitHub Profile URL]
+- [LinkedIn](https://www.linkedin.com/in/dishant-ai22/)
+- Email: (dishant.de22@gmail.com)
