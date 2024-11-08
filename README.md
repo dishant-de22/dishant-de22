@@ -1,6 +1,6 @@
 # Hello, I'm Dishant 👋
 
-I'm a data engineer with over 2 years of experience building data intensive software applications. In addition to my technical work, I'm passionate about playing cricket, enjoying a good cup of coffee, and playing the piano.
+I'm a data engineer with over 2 years of experience building data applications. In addition to my technical work, I'm passionate about playing cricket, enjoying a good cup of coffee, and playing the piano.
 
 ## 🧑‍💻 Technical Skills
 - **Data Engineering**: Experienced in building data pipelines, ETL processes, and data warehousing solutions.
