@@ -4,7 +4,7 @@ I'm a data engineer with over 2 years of experience building data applications. 
 
 ## 🧑‍💻 Technical Skills
 - **Data Engineering**: Experienced in building data pipelines, ETL processes, and data warehousing solutions.
-- **Programming Languages**: Python, SQL, Scala, Java
+- **Programming Languages**: Python, Scala, Java
 - **Technologies**: Apache Spark, Apache Airflow, Databricks, Hadoop, Hive, Kafka
 - **Cloud Platforms**: AWS - EMR, Glue, Lambda, S3, Kinesis, Redshift, EC2, SQS, SNS
 - **Databases**: PostgreSQL, MySQL, MongoDB, CassandraDB
